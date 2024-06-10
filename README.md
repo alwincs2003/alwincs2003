@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alwin Shaju</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyouibou&label=Profile%20views&color=0e75b6&style=flat" alt="nyouibou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alwincs2003&label=Profile%20views&color=0e75b6&style=flat" alt="alwincs2003" /> </p>
 
 - 🌱  **Flutter, Api, Provider, Hive, SqfLite**
 
-- 📝 I regularly write articles on [https://nyouibou.github.io/personal/](https://nyouibou.github.io/personal/)
+- 📝 I regularly write articles on [https://alwincs2003.github.io/personal/](https://alwincs2003.github.io/personal/)
 
 - 💬 Ask me about **Android Flutter**
 
